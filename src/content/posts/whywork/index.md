@@ -1,7 +1,7 @@
 ---
 title: 就活時期に聞かれた、なぜ働くか。 
 published: 2020-05-16
-description: "就活時期に聞かれた、なぜ働くか."
+description: "就活時期に聞かれた、なぜ働くか。"
 image: ./cover.jpeg
 tags: [仕事]
 category: '仕事'
