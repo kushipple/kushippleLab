@@ -68,6 +68,11 @@ export const profileConfig: ProfileConfig = {
       icon: 'fa6-brands:github',
       url: 'https://github.com/kushipple/kushippleLab',
     },
+    {
+      name: 'Filmarks',
+      icon: 'maki:cinema',
+      url: 'https://filmarks.com/users/blue_effect',
+    },
   ],
 }
 
