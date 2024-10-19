@@ -1,9 +1,9 @@
 # About
 好きなことをつぶやきたいと思います
 
-[kushippleLab](https://github.com/bluuuekhk/kushippleLab).
+[kushippleLab](https://github.com/kushipple/kushippleLab).
 
-::github{repo="bluuuekhk/kushippleLab"}
+::github{repo="kushipple/kushippleLab"}
 
 This style theme is a great theme, Fuwari. Thank you.
 
