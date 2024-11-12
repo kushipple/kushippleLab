@@ -2,7 +2,6 @@
 title: ブロックチェーンについて
 published: 2020-05-15
 description: "blockchain"
-image: ./cover.jpeg
 tags: [IT, 雑記]
 category: 'IT・開発'
 draft: false

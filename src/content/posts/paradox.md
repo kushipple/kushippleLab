@@ -2,7 +2,6 @@
 title: 現代の矛盾を読んだ
 published: 2020-06-16
 description: "現代の矛盾を読んだ"
-image: ./cover.jpeg
 tags: [雑記]
 category: '雑記'
 draft: false
