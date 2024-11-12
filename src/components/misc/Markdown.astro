@@ -489,16 +489,3 @@ const className = Astro.props.class
     }
 
 </style>
-
-<!-- Lighthouseのファーストビュー内の1枚目画像の遅延読み込み指摘の回避 -->
-<script>
-  window.addEventListener('DOMContentLoaded', (event) => {
-      /* ページ内の最初のloading="lazy"属性を持つimg要素を取得 */
-      var firstLazyImage = document.querySelector('img[loading="lazy"]');
-  
-      if (firstLazyImage) {
-          /* 最初の画像のloading属性をeagerに変更 */
-          firstLazyImage.setAttribute('loading', 'eager');
-      }
-  });
-  </script>
